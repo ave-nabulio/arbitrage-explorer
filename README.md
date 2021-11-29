@@ -1,4 +1,4 @@
-#Aim
+# Aim
 
 This project is a challenge provided by the SwissBorg company in the context of a recrutment process.
 
